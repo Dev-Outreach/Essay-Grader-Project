@@ -3,6 +3,11 @@ Reads and Writes Files to Grade a piece of Writing
 
 **Written in Python**
 
+Origonal Features
+- Vocabulary Search
+- Spell Check
+- Grammar Checker
+
 ---
 
 # Original Developer Notes
